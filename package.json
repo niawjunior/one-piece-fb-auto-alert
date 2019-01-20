@@ -1,0 +1,19 @@
+{
+  "name": "check-one-piece",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "facebook-chat-api": "^1.6.1",
+    "firebase-admin": "^6.5.0",
+    "image-downloader": "^3.4.2",
+    "node-cron": "^2.0.3"
+  }
+}
